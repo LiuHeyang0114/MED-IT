@@ -23,7 +23,7 @@ min() {
 SECONDS=0
 
 # General configuration
-stage=11             # Processes starts from the specified stage.
+stage=1             # Processes starts from the specified stage.
 stop_stage=13        # Processes is stopped at the specified stage.
 skip_data_prep=false # Skip data preparation stages.
 skip_train=false     # Skip training stages.
